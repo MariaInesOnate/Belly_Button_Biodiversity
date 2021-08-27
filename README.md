@@ -1,2 +1,2 @@
-# Belly_Button_Heroku
+# Belly_Button_Biodiversity
 Belly Button Biodiversity
