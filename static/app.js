@@ -78,6 +78,6 @@ buildMetadata(newSample);
 }
 
 // Initialize the dashboard
-init()
+init();
 
 
